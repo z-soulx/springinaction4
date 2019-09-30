@@ -9,7 +9,7 @@ public class KnightMain {
     ClassPathXmlApplicationContext context = 
         new ClassPathXmlApplicationContext(
             "META-INF/spring/knight.xml");
-    Knight knight = context.getBean(Knight.class);
+    Knight knight = (Knight) context.getBean(Knight.class.getName());
     knight.embarkOnQuest();
     context.close();
   }
