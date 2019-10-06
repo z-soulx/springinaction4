@@ -15,8 +15,9 @@ import spittr.config.RootConfig.WebPackage;
 @Import(DataConfig.class)
 @ComponentScan(basePackages={"spittr"}, 
     excludeFilters={
-        @Filter(type=FilterType.CUSTOM, value=WebPackage.class)
+        @Filter(type=FilterType.CUSTOM, value=WebPackage.class)//自定义排除扫描
     })
+//https://www.jianshu.com/p/2cabfb1975c7  解释excludeFilters
 public class RootConfig {
   public static class WebPackage extends RegexPatternTypeFilter {
     public WebPackage() {

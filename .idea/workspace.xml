@@ -4,28 +4,20 @@
     <list default="true" id="87ed0c26-c52c-4312-afee-9722a3c8d769" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Chapter_01/knight/src/main/java/sia/knights/KnightMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Chapter_01/knight/src/main/java/sia/knights/KnightMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/web/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/web/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/spring/knight.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/spring/knight.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/spring/minstrel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/spring/minstrel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/edution/zx/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edution/zx/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/BraveKnight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/BraveKnight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/DamselRescuingKnight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/DamselRescuingKnight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/Knight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/Knight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/KnightMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/KnightMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/Minstrel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/Minstrel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/Quest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/Quest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/RescueDamselQuest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/RescueDamselQuest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/SlayDragonQuest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/SlayDragonQuest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/config/KnightConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/config/KnightConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/config/SoundSystemConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/config/SoundSystemConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/sia/knights/BraveKnightTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/sia/knights/BraveKnightTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/sia/knights/FakePrintStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/sia/knights/FakePrintStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/sia/knights/KnightConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/sia/knights/KnightConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/sia/knights/KnightJavaConfigInjectionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/sia/knights/KnightJavaConfigInjectionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/sia/knights/KnightXMLInjectionTest-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/sia/knights/KnightXMLInjectionTest-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/sia/knights/KnightXMLInjectionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/sia/knights/KnightXMLInjectionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/config/RootConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/config/RootConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/config/SpitterWebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/config/SpitterWebInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edution/zx/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/BraveKnight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/DamselRescuingKnight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/Knight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/KnightMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/Minstrel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/Quest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/RescueDamselQuest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/SlayDragonQuest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/config/KnightConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/config/SoundSystemConfig.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,20 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/config/DataConfig.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/config/RootConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="129">
+              <caret line="76" column="32" lean-forward="true" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -61,44 +44,72 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/config/SpitterWebInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="99">
+              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/gradle.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="5" column="46" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/gradlew">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/gradlew.bat">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/test/java/spittr/web/SpittleControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-462">
+              <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/test/java/spittr/web/HomeControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/web/WebConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/maven/Mavenrepo/org/Springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerAdapter.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/maven/Mavenrepo/org/Springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/maven/Mavenrepo/org/Springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerComposite.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="31" />
+            <state relative-caret-position="330">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -129,9 +140,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/edution/zx/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/Chapter_01/knight/src/main/java/sia/knights/config/SoundSystemConfig.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/Chapter_01/knight/src/main/java/sia/knights/KnightMain.java" />
         <option value="$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/web/WebConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/config/RootConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/config/SpitterWebInitializer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -157,9 +171,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
-    <option name="y" value="128" />
+    <option name="y" value="127" />
     <option name="width" value="1440" />
-    <option name="height" value="773" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -289,7 +303,41 @@
               <item name="Chapter_05" type="462c0819:PsiDirectoryNode" />
               <item name="Spittr" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springinaction4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springinaction4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_05" type="462c0819:PsiDirectoryNode" />
+              <item name="Spittr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springinaction4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springinaction4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_05" type="462c0819:PsiDirectoryNode" />
+              <item name="Spittr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springinaction4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springinaction4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_05" type="462c0819:PsiDirectoryNode" />
+              <item name="Spittr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -315,6 +363,9 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -335,26 +386,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KnightMain">
+  <component name="RunManager" selected="JUnit.HomeControllerTest.testHomePage">
     <configuration name="KnightMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sia.knights.KnightMain" />
       <module name="springinaction4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sia.knights.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.edution.zx.Solution" />
-      <module name="springinaction4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.edution.zx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,6 +411,22 @@
       <option name="PACKAGE_NAME" value="sia.knights" />
       <option name="MAIN_CLASS_NAME" value="sia.knights.BraveKnightTest" />
       <option name="METHOD_NAME" value="knightShouldEmbarkOnQuest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeControllerTest.testHomePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springinaction4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spittr.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spittr.web" />
+      <option name="MAIN_CLASS_NAME" value="spittr.web.HomeControllerTest" />
+      <option name="METHOD_NAME" value="testHomePage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -412,11 +466,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HomeControllerTest.testHomePage" />
         <item itemvalue="Application.KnightMain" />
         <item itemvalue="JUnit.KnightXMLInjectionTest.shouldInjectKnightWithSlayDragonQuest" />
         <item itemvalue="JUnit.KnightJavaConfigInjectionTest.shouldInjectKnightWithSlayDragonQuest" />
         <item itemvalue="JUnit.BraveKnightTest.knightShouldEmbarkOnQuest" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -436,17 +490,12 @@
       <workItem from="1569669523936" duration="577000" />
       <workItem from="1569813678617" duration="3262000" />
       <workItem from="1569821700023" duration="1521000" />
-      <workItem from="1570342552926" duration="3824000" />
+      <workItem from="1570342552926" duration="7037000" />
+      <workItem from="1570365764834" duration="492000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KnightXMLInjectionTest_shouldInjectKnightWithSlayDragonQuest - 2019.09.30 at 11h 49m 30s.xml">
-      <configuration name="KnightXMLInjectionTest.shouldInjectKnightWithSlayDragonQuest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KnightXMLInjectionTest_shouldInjectKnightWithSlayDragonQuest - 2019.09.30 at 11h 50m 21s.xml">
-      <configuration name="KnightXMLInjectionTest.shouldInjectKnightWithSlayDragonQuest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="KnightXMLInjectionTest_shouldInjectKnightWithSlayDragonQuest - 2019.09.30 at 11h 50m 47s.xml">
       <configuration name="KnightXMLInjectionTest.shouldInjectKnightWithSlayDragonQuest" configurationId="JUnit" />
     </history-entry>
@@ -471,15 +520,30 @@
     <history-entry file="KnightXMLInjectionTest_shouldInjectKnightWithSlayDragonQuest - 2019.09.30 at 15h 02m 21s.xml">
       <configuration name="KnightXMLInjectionTest.shouldInjectKnightWithSlayDragonQuest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="HomeControllerTest_testHomePage - 2019.10.06 at 20h 37m 01s.xml">
+      <configuration name="HomeControllerTest.testHomePage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HomeControllerTest_testHomePage - 2019.10.06 at 20h 46m 48s.xml">
+      <configuration name="HomeControllerTest.testHomePage" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15675000" />
+    <option name="totallyTimeSpent" value="19408000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -488,18 +552,18 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43973634" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6803519" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45480227" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32991204" />
-      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.32991204" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.30351907" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.35781544" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.3548387" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -510,30 +574,15 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="ASM" order="9" />
+      <window_info anchor="right" id="JSF" order="10" />
+      <window_info anchor="right" id="CDI" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/edution/zx/AppConfiguration.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/edution/zx/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="13" selection-start-column="13" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Chapter_01/knight/src/main/java/sia/knights/config/SoundSystemConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -671,13 +720,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Chapter_01/knight/src/main/resources/META-INF/spring/knight.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -709,24 +751,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/config/RootConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/maven/Mavenrepo/org/Springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerComposite.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="20" column="31" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/config/SpitterWebInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -744,12 +772,228 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/web/WebConfig.java">
+    <entry file="jar://E:/maven/Mavenrepo/org/Springframework/spring-context/4.0.7.RELEASE/spring-context-4.0.7.RELEASE.jar!/org/springframework/context/annotation/FilterType.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="46" />
+        <state relative-caret-position="131">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
+    <entry file="jar://E:/maven/Mavenrepo/org/Springframework/spring-context/4.0.7.RELEASE/spring-context-4.0.7.RELEASE.jar!/org/springframework/stereotype/Component.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/Mavenrepo/org/Springframework/spring-context/4.0.7.RELEASE/spring-context-4.0.7.RELEASE.jar!/org/springframework/stereotype/Controller.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/web/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/Spittle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1074#1075#0" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/Spitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/test/java/spittr/web/SpitterControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" selection-start-line="14" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/Mavenrepo/org/Springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/support/AbstractAnnotationConfigDispatcherServletInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/webapp/WEB-INF/views/spittles.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/webapp/WEB-INF/spring/root-context.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/config/RootConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/web/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/test/java/spittr/web/HomeControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/test/java/spittr/web/SpittleControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter_05/Spittr/src/main/java/spittr/config/SpitterWebInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="76" column="32" lean-forward="true" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springinaction4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
